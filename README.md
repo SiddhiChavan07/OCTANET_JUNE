@@ -1,5 +1,5 @@
-# OCTANET_JUNE
-Name:- Siddhi Abhijit Chavan
+# OCTANET_INTERNSHIP
+Hello my name is Prabhat Singh and here is the list of the tasks assigned to me as an intern at Octanet.
 
 #Task1 : 
 
