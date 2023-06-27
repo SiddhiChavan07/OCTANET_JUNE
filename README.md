@@ -27,8 +27,9 @@ Hello my name is Siddhi Chavan and here is the list of the tasks assigned to me 
 
 #Output :
 
-![WhatsApp Image 2023-06-27 at 09 55 26](https://github.com/SiddhiChavan07/OCTANET_JUNE/assets/114715354/8903f20b-9421-475f-adb7-5a3911a3982c)
 ![WhatsApp Image 2023-06-27 at 09 55 27](https://github.com/SiddhiChavan07/OCTANET_JUNE/assets/114715354/f36745cc-2e81-49c8-b0ba-b972eee96702)
+![WhatsApp Image 2023-06-27 at 09 55 26](https://github.com/SiddhiChavan07/OCTANET_JUNE/assets/114715354/8903f20b-9421-475f-adb7-5a3911a3982c)
+
 
 
 
